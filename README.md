@@ -1,1 +1,1 @@
-I provided the notebook in addition to the screenshots of each answer.
+I included the notebook along with screenshots of each answer.
