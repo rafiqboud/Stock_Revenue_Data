@@ -1,1 +1,1 @@
-# Stock_Revenue_Data
+I provided the notebook in addition to the screenshots
